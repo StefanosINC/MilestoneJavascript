@@ -1,1 +1,2 @@
-# MilestoneJavascript
+# JavaScriptMilestone
+ 
